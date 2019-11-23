@@ -1,5 +1,5 @@
 {
-  "name": "devconnector",
+  "name": "Social Network",
   "version": "1.0.0",
   "description": "social network for developers",
   "main": "server.js",
@@ -10,7 +10,7 @@
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "author": "simran gupta",
+  "author": "Shubhanker",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
