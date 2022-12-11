@@ -16,7 +16,7 @@
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
     "create-react-app": "^2.1.8",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "gravatar": "^1.8.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.4.19",
